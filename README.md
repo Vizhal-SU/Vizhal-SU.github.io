@@ -1,4 +1,4 @@
 # Vizhal-SU.github.io
-Vizhal's insti webops app.
+Hi! This is Vizhal and here are the two websites I have created for insti web-ops team coordinator app! 
 
-I do not own the images displayed in the websites. They were downloaded from the internet.
+P.S. I do not own any of the images displayed in the websites.They have been downloaded from the internet
